@@ -1,0 +1,13 @@
+algoritmo "Primeiro Programa"
+
+var
+  nome: caractere
+
+inicio
+
+  escreval("Digite seu nome: ")
+  leia(nome)
+  escreva("Olá, ", nome, "!")
+  
+
+fimalgoritmo
